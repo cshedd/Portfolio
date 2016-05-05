@@ -234,4 +234,8 @@ input[type=submit] {
 .container {
 	width:100%;
 	}
+
+header {
+	position: static;
+	}	
 }
